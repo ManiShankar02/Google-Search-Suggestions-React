@@ -1,0 +1,25 @@
+.itemList {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+}
+
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin: 0;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.arrowImage {
+  height: 16px;
+  width: 16px;
+}
